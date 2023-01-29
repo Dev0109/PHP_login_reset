@@ -1,0 +1,268 @@
+body {
+	margin: auto;
+	height: 500px;
+	padding: 20px;
+}
+
+#header {
+	width: 250px;
+	color: #336699;
+	font-size: 45px;
+	font-family: 'Times New Roman', Times, serif;
+	font-weight: 200;
+	padding: 50px 40px 10px 50px;
+	margin-bottom: 25px;
+	border-bottom: 1px solid #336699;
+}
+
+#footer {
+	position: absolute;
+	display: inline-block;
+	top: 92%;
+	left: 0px;
+	background-color: #336699;
+	color: white;
+	width: 100%;
+	height: 7%;
+	padding-top: 10px;
+	text-align: center;
+}
+
+#back {
+	position: absolute;
+	top: 150px;
+	left: 35%;
+	width: 700px;
+	height: 700px;
+	border: 1px solid lightgrey;
+	background-color: #336699;
+	border-radius: 7%;
+	display: inline-block;
+}
+
+#back_reg {
+	position: absolute;
+	top: 150px;
+	left: 32%;
+	width: 700px;
+	height: 700px;
+	border: 1px solid lightgrey;
+	background-color: firebrick;
+	border-radius: 7%;
+	display: inline-block;
+}
+
+#back_s {
+	position: relative;
+	top: 20px;
+	width: 100%;
+	height: 510px;
+	background-color: white;
+	display: inline-block;
+}
+
+#tab {
+	position: absolute;
+	top: 25%;
+	left: 25%;
+	width: 700px;
+	height: 300px;
+	font-size: 30px;
+	font-weight: bold;
+	font-family: serif;
+}
+
+#tab_1 {
+	position: absolute;
+	display: inline-block;
+	top: 18%;
+	left: 25%;
+	width: 700px;
+	height: 500px;
+	font-size: 22px;
+	font-weight: bold;
+	font-family: serif;
+}
+
+#col {
+	width: 95px;
+	height: 40px;
+	background-color: #336699;
+	border: none;
+	border-radius: 5%;
+	margin-left: 17%;
+}
+
+#col_1 {
+	width: 95px;
+	height: 40px;
+	background-color: firebrick;
+	border: none;
+	border-radius: 5%;
+	margin-left: 29%;
+}
+
+#col:hover {
+	background-color: cornflowerblue;
+}
+
+#col_1:hover {
+	background-color: gray;
+}
+
+#txt {
+	height: 35px;
+}
+
+#log {
+	width: 100%;
+	color: white;
+	text-align: center;
+	display: inline-block;
+	margin-top: 30px;
+}
+
+#part_1 {
+	width: 600px;
+	height: 45px;
+	margin-left: 20%;
+	display: inline-block;
+}
+
+#part_2 {
+	width: 50%;
+	height: 500px;
+	display: inline-block;
+	margin-left: 25%;
+	margin-top: 50px;
+}
+
+#part_s {
+	width: 33%;
+	height: 100%;
+	display: inline-block;
+	border-right: 2px solid black;
+}
+
+#part_s1 {
+	width: 30%;
+	height: 100%;
+	display: inline-block;
+}
+
+#out {
+	color: #336699;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+#view {
+	font-size: 30px;
+	color: black;
+	text-decoration: none;
+	text-align: center;
+	padding: 0px 50px;
+}
+
+#view:hover {
+	font-size: 150%;
+}
+
+#out:hover {
+	background-color: #336699;
+	color: white;
+}
+
+#pic {
+	width: 100%;
+	height: 100%;
+}
+
+#foot {
+	text-align: center;
+}
+
+#sign {
+	color: #336699;
+	text-decoration: none;
+	font-size: 25px;
+	margin-left: 50px;
+}
+
+#sign:hover {
+	font-size: 35px;
+}
+
+
+#reg {
+	position: absolute;
+	top: 100px;
+	left: 10%;
+	display: inline-block;
+}
+
+#forg {
+	position: relative;
+	display: inline-block;
+	top: 75%;
+	left: 40%;
+	text-align: center;
+	color: black;
+	font-size: 15px;
+
+}
+
+#forg:hover {
+	font-size: 18px;
+	color: firebrick;
+	text-align: center;
+}
+
+#tab_2 {
+	width: 500px;
+	height: 200px;
+	position: absolute;
+	top: 20%;
+	left: 35%;
+	font-size: 30px;
+	background-color: firebrick;
+	color: white;
+	border-radius: 10%;
+
+}
+
+#forg_1 {
+	margin-top: 100px;
+	margin-left: 40%;
+	color: firebrick;
+	font-size: 40px;
+}
+
+#sub {
+	width: 80px;
+	height: 40px;
+	color: firebrick;
+	font-size: 17px;
+	border-radius: 10%;
+	border: none;
+}
+
+#sub:hover {
+	background-color: lightgray;
+	border: none;
+}
+
+#home {
+	position: relative;
+	display: inline-block;
+	top: 230px;
+	left: 45%;
+	color: firebrick;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+#home:hover {
+	font-size: 23px;
+	background-color: grey;
+}
